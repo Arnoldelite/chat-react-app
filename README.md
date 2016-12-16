@@ -1,4 +1,4 @@
-# ReactJS Socket.io Chat Application
+# React Chat Application
 
 ## Running it
 
