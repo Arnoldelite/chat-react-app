@@ -1,0 +1,20 @@
+body{
+	width: 600px;
+	margin: 0 auto;
+	border: 5px solid black;
+}
+.users{
+	float : left;
+	margin-right: 1.5em;
+}
+.messages {
+	float : right;
+	width: 400px;
+	margin: 1em;
+	border : 2px solid black;
+	padding: 1em;
+}
+.message_form,
+.change_name_form{
+	padding: 1em;
+}
